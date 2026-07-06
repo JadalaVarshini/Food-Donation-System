@@ -1,7 +1,7 @@
 # Food-Donation-System
 
 ## Overview
-The Food Donation System is a web-based application developed to reduce food wastage by connecting food donors with people in need. This platform helps donors donate excess food easily and enables receivers or NGOs to access available food resources to all the needed people.
+The Food Donation System is a web-based application developed to reduce food wastage by connecting food donors with people in need. This platform helps donors donate excess food easily and enables receivers or NGOs to access available food resources.
 
 ## Features
 
